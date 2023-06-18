@@ -12,3 +12,4 @@ Terminal
 10. git push origin *fileName
 11. git checkout -b -> To Create A Branch
 12. git checkout main -> To Go Back To Main Branch
+13. git status -> Gets Status
